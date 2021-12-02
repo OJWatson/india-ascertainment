@@ -1,0 +1,613 @@
+"state","Ages","n"
+"Jammu and Kashmir","0-4",831296
+"Jammu and Kashmir","5-9",898336
+"Jammu and Kashmir","10-14",1461472
+"Jammu and Kashmir","15-19",1394432
+"Jammu and Kashmir","20-24",1327392
+"Jammu and Kashmir","25-29",1206720
+"Jammu and Kashmir","30-34",1112864
+"Jammu and Kashmir","35-39",1032416
+"Jammu and Kashmir","40-44",911744
+"Jammu and Kashmir","45-49",791072
+"Jammu and Kashmir","50-54",683808
+"Jammu and Kashmir","55-59",549727
+"Jammu and Kashmir","60-64",415648
+"Jammu and Kashmir","65-69",308384
+"Jammu and Kashmir","70-74",214528
+"Jammu and Kashmir","75-79",147488
+"Jammu and Kashmir","80+",134080
+"Himachal Pradesh","0-4",465822
+"Himachal Pradesh","5-9",502792
+"Himachal Pradesh","10-14",554550
+"Himachal Pradesh","15-19",591520
+"Himachal Pradesh","20-24",628490
+"Himachal Pradesh","25-29",635884
+"Himachal Pradesh","30-34",621096
+"Himachal Pradesh","35-39",584126
+"Himachal Pradesh","40-44",539762
+"Himachal Pradesh","45-49",495398
+"Himachal Pradesh","50-54",436246
+"Himachal Pradesh","55-59",369700
+"Himachal Pradesh","60-64",303153
+"Himachal Pradesh","65-69",236608
+"Himachal Pradesh","70-74",177456
+"Himachal Pradesh","75-79",118304
+"Himachal Pradesh","80+",133092
+"Punjab","0-4",1941696
+"Punjab","5-9",2063052
+"Punjab","10-14",2154069
+"Punjab","15-19",2427120
+"Punjab","20-24",2700171
+"Punjab","25-29",2821527
+"Punjab","30-34",2730510
+"Punjab","35-39",2457459
+"Punjab","40-44",2154069
+"Punjab","45-49",1911357
+"Punjab","50-54",1729323
+"Punjab","55-59",1456272
+"Punjab","60-64",1152882
+"Punjab","65-69",910170
+"Punjab","70-74",728136
+"Punjab","75-79",515763
+"Punjab","80+",515763
+"Uttarakhand","0-4",866324
+"Uttarakhand","5-9",866324
+"Uttarakhand","10-14",968915
+"Uttarakhand","15-19",1060107
+"Uttarakhand","20-24",1151299
+"Uttarakhand","25-29",1117102
+"Uttarakhand","30-34",980313
+"Uttarakhand","35-39",820728
+"Uttarakhand","40-44",706738
+"Uttarakhand","45-49",638343
+"Uttarakhand","50-54",547152
+"Uttarakhand","55-59",455960
+"Uttarakhand","60-64",364768
+"Uttarakhand","65-69",296374
+"Uttarakhand","70-74",239379
+"Uttarakhand","75-79",159585
+"Uttarakhand","80+",159585
+"Haryana","0-4",2447089
+"Haryana","5-9",2476572
+"Haryana","10-14",2447089
+"Haryana","15-19",2594504
+"Haryana","20-24",2800885
+"Haryana","25-29",2800885
+"Haryana","30-34",2565021
+"Haryana","35-39",2240708
+"Haryana","40-44",1945878
+"Haryana","45-49",1680531
+"Haryana","50-54",1444667
+"Haryana","55-59",1149837
+"Haryana","60-64",884490
+"Haryana","65-69",707592
+"Haryana","70-74",589660
+"Haryana","75-79",383279
+"Haryana","80+",353796
+"Delhi","0-4",1439970
+"Delhi","5-9",1501683
+"Delhi","10-14",1542825
+"Delhi","15-19",1748535
+"Delhi","20-24",2015958
+"Delhi","25-29",2036529
+"Delhi","30-34",1871961
+"Delhi","35-39",1727964
+"Delhi","40-44",1501683
+"Delhi","45-49",1316544
+"Delhi","50-54",1090263
+"Delhi","55-59",863982
+"Delhi","60-64",658272
+"Delhi","65-69",473133
+"Delhi","70-74",349707
+"Delhi","75-79",226281
+"Delhi","80+",185139
+"Rajasthan","0-4",7690256
+"Rajasthan","5-9",7928100
+"Rajasthan","10-14",7531695
+"Rajasthan","15-19",7769538
+"Rajasthan","20-24",7848819
+"Rajasthan","25-29",7135290
+"Rajasthan","30-34",6183918
+"Rajasthan","35-39",5311827
+"Rajasthan","40-44",4598298
+"Rajasthan","45-49",4122612
+"Rajasthan","50-54",3488364
+"Rajasthan","55-59",2933397
+"Rajasthan","60-64",2219868
+"Rajasthan","65-69",1664901
+"Rajasthan","70-74",1268496
+"Rajasthan","75-79",872091
+"Rajasthan","80+",713529
+"Uttar Pradesh","0-4",23783421
+"Uttar Pradesh","5-9",24245235
+"Uttar Pradesh","10-14",21705258
+"Uttar Pradesh","15-19",23552514
+"Uttar Pradesh","20-24",24014328
+"Uttar Pradesh","25-29",21474351
+"Uttar Pradesh","30-34",17548932
+"Uttar Pradesh","35-39",14316234
+"Uttar Pradesh","40-44",12699885
+"Uttar Pradesh","45-49",11545350
+"Uttar Pradesh","50-54",9698094
+"Uttar Pradesh","55-59",7619931
+"Uttar Pradesh","60-64",6003582
+"Uttar Pradesh","65-69",4618140
+"Uttar Pradesh","70-74",3694512
+"Uttar Pradesh","75-79",2539977
+"Uttar Pradesh","80+",1847256
+"Bihar","0-4",13539130
+"Bihar","5-9",13785295
+"Bihar","10-14",14031462
+"Bihar","15-19",13662213
+"Bihar","20-24",12308300
+"Bihar","25-29",9477391
+"Bihar","30-34",7877312
+"Bihar","35-39",7261897
+"Bihar","40-44",6769565
+"Bihar","45-49",6031067
+"Bihar","50-54",5046402
+"Bihar","55-59",3938656
+"Bihar","60-64",3077075
+"Bihar","65-69",2461660
+"Bihar","70-74",1969328
+"Bihar","75-79",1230830
+"Bihar","80+",738498
+"Assam","0-4",3013697
+"Assam","5-9",3013697
+"Assam","10-14",3329085
+"Assam","15-19",3399170
+"Assam","20-24",3294042
+"Assam","25-29",3048741
+"Assam","30-34",2838483
+"Assam","35-39",2628225
+"Assam","40-44",2347881
+"Assam","45-49",2067537
+"Assam","50-54",1752150
+"Assam","55-59",1401720
+"Assam","60-64",1051290
+"Assam","65-69",735903
+"Assam","70-74",525645
+"Assam","75-79",315387
+"Assam","80+",245300
+"West Bengal","0-4",6378125
+"West Bengal","5-9",6770625
+"West Bengal","10-14",7555625
+"West Bengal","15-19",8144375
+"West Bengal","20-24",8733125
+"West Bengal","25-29",8831250
+"West Bengal","30-34",8536875
+"West Bengal","35-39",7751875
+"West Bengal","40-44",6966874
+"West Bengal","45-49",6574375
+"West Bengal","50-54",5887500
+"West Bengal","55-59",4906250
+"West Bengal","60-64",3826875
+"West Bengal","65-69",2845625
+"West Bengal","70-74",1962500
+"West Bengal","75-79",1275625
+"West Bengal","80+",1177500
+"Jharkhand","0-4",3654745
+"Jharkhand","5-9",3616274
+"Jharkhand","10-14",3924041
+"Jharkhand","15-19",4000984
+"Jharkhand","20-24",3885570
+"Jharkhand","25-29",3308505
+"Jharkhand","30-34",2846854
+"Jharkhand","35-39",2577557
+"Jharkhand","40-44",2308260
+"Jharkhand","45-49",2038963
+"Jharkhand","50-54",1731195
+"Jharkhand","55-59",1384956
+"Jharkhand","60-64",1077188
+"Jharkhand","65-69",846362
+"Jharkhand","70-74",654007
+"Jharkhand","75-79",423181
+"Jharkhand","80+",230826
+"Odisha","0-4",3346508
+"Odisha","5-9",3390541
+"Odisha","10-14",3654739
+"Odisha","15-19",3786837
+"Odisha","20-24",3786837
+"Odisha","25-29",3610705
+"Odisha","30-34",3478607
+"Odisha","35-39",3302475
+"Odisha","40-44",3038277
+"Odisha","45-49",2818112
+"Odisha","50-54",2509881
+"Odisha","55-59",2113584
+"Odisha","60-64",1629221
+"Odisha","65-69",1320990
+"Odisha","70-74",1012759
+"Odisha","75-79",660495
+"Odisha","80+",528396
+"Chhattisgarh","0-4",2742849
+"Chhattisgarh","5-9",2801835
+"Chhattisgarh","10-14",2654370
+"Chhattisgarh","15-19",2742849
+"Chhattisgarh","20-24",2801835
+"Chhattisgarh","25-29",2624877
+"Chhattisgarh","30-34",2329947
+"Chhattisgarh","35-39",2035017
+"Chhattisgarh","40-44",1828566
+"Chhattisgarh","45-49",1681101
+"Chhattisgarh","50-54",1474650
+"Chhattisgarh","55-59",1209212
+"Chhattisgarh","60-64",884790
+"Chhattisgarh","65-69",648846
+"Chhattisgarh","70-74",501381
+"Chhattisgarh","75-79",294930
+"Chhattisgarh","80+",235944
+"Madhya Pradesh","0-4",8451600
+"Madhya Pradesh","5-9",8620632
+"Madhya Pradesh","10-14",7775472
+"Madhya Pradesh","15-19",8029020
+"Madhya Pradesh","20-24",8029020
+"Madhya Pradesh","25-29",7352891
+"Madhya Pradesh","30-34",6507732
+"Madhya Pradesh","35-39",5747088
+"Madhya Pradesh","40-44",5155476
+"Madhya Pradesh","45-49",4648380
+"Madhya Pradesh","50-54",3972252
+"Madhya Pradesh","55-59",3211608
+"Madhya Pradesh","60-64",2450964
+"Madhya Pradesh","65-69",1774836
+"Madhya Pradesh","70-74",1352256
+"Madhya Pradesh","75-79",845160
+"Madhya Pradesh","80+",760644
+"Gujarat","0-4",5792404
+"Gujarat","5-9",5792404
+"Gujarat","10-14",5652828
+"Gujarat","15-19",6001767
+"Gujarat","20-24",6280920
+"Gujarat","25-29",6141344
+"Gujarat","30-34",5792404
+"Gujarat","35-39",5303888
+"Gujarat","40-44",4745584
+"Gujarat","45-49",4257068
+"Gujarat","50-54",3698764
+"Gujarat","55-59",3070672
+"Gujarat","60-64",2442580
+"Gujarat","65-69",1814488
+"Gujarat","70-74",1256184
+"Gujarat","75-79",837456
+"Gujarat","80+",767668
+"Maharashtra","0-4",8461716
+"Maharashtra","5-9",8835027
+"Maharashtra","10-14",9706086
+"Maharashtra","15-19",10203833
+"Maharashtra","20-24",11074893
+"Maharashtra","25-29",11199330
+"Maharashtra","30-34",10950456
+"Maharashtra","35-39",10079397
+"Maharashtra","40-44",8959464
+"Maharashtra","45-49",7963968
+"Maharashtra","50-54",6968471
+"Maharashtra","55-59",5724102
+"Maharashtra","60-64",4479732
+"Maharashtra","65-69",3484235
+"Maharashtra","70-74",2737614
+"Maharashtra","75-79",1990992
+"Maharashtra","80+",1742117
+"Andhra Pradesh","0-4",3431155
+"Andhra Pradesh","5-9",3642303
+"Andhra Pradesh","10-14",3747876
+"Andhra Pradesh","15-19",4170173
+"Andhra Pradesh","20-24",4486895
+"Andhra Pradesh","25-29",4592469
+"Andhra Pradesh","30-34",4592469
+"Andhra Pradesh","35-39",4328533
+"Andhra Pradesh","40-44",3906238
+"Andhra Pradesh","45-49",3589516
+"Andhra Pradesh","50-54",3167220
+"Andhra Pradesh","55-59",2586563
+"Andhra Pradesh","60-64",2005906
+"Andhra Pradesh","65-69",1583610
+"Andhra Pradesh","70-74",1319675
+"Andhra Pradesh","75-79",897379
+"Andhra Pradesh","80+",686231
+"Karnataka","0-4",4679150
+"Karnataka","5-9",5013375
+"Karnataka","10-14",5080220
+"Karnataka","15-19",5347600
+"Karnataka","20-24",5681825
+"Karnataka","25-29",5882360
+"Karnataka","30-34",5882360
+"Karnataka","35-39",5481289
+"Karnataka","40-44",4879685
+"Karnataka","45-49",4344925
+"Karnataka","50-54",3743319
+"Karnataka","55-59",3141715
+"Karnataka","60-64",2473265
+"Karnataka","65-69",1871659
+"Karnataka","70-74",1470590
+"Karnataka","75-79",1002675
+"Karnataka","80+",868985
+"Kerala","0-4",2306785
+"Kerala","5-9",2413252
+"Kerala","10-14",2519719
+"Kerala","15-19",2555208
+"Kerala","20-24",2661675
+"Kerala","25-29",2626186
+"Kerala","30-34",2590697
+"Kerala","35-39",2555208
+"Kerala","40-44",2484230
+"Kerala","45-49",2448741
+"Kerala","50-54",2342274
+"Kerala","55-59",2129340
+"Kerala","60-64",1809939
+"Kerala","65-69",1490538
+"Kerala","70-74",1135648
+"Kerala","75-79",745269
+"Kerala","80+",674291
+"Tamil Nadu","0-4",4736924
+"Tamil Nadu","5-9",5195336
+"Tamil Nadu","10-14",5271738
+"Tamil Nadu","15-19",5577346
+"Tamil Nadu","20-24",5959356
+"Tamil Nadu","25-29",6188562
+"Tamil Nadu","30-34",6341366
+"Tamil Nadu","35-39",6264963
+"Tamil Nadu","40-44",5882954
+"Tamil Nadu","45-49",5424541
+"Tamil Nadu","50-54",4889728
+"Tamil Nadu","55-59",4202110
+"Tamil Nadu","60-64",3361688
+"Tamil Nadu","65-69",2674070
+"Tamil Nadu","70-74",1986452
+"Tamil Nadu","75-79",1298834
+"Tamil Nadu","80+",1146030
+"Telangana","0-4",2603025
+"Telangana","5-9",2678474
+"Telangana","10-14",2829375
+"Telangana","15-19",3131175
+"Telangana","20-24",3395250
+"Telangana","25-29",3432975
+"Telangana","30-34",3357525
+"Telangana","35-39",3131175
+"Telangana","40-44",2791650
+"Telangana","45-49",2489850
+"Telangana","50-54",2074875
+"Telangana","55-59",1659900
+"Telangana","60-64",1282650
+"Telangana","65-69",1018575
+"Telangana","70-74",829950
+"Telangana","75-79",565875
+"Telangana","80+",452700
+"Arunachal Pradesh","0-4",110376
+"Arunachal Pradesh","5-9",105777
+"Arunachal Pradesh","10-14",145635
+"Arunachal Pradesh","15-19",150234
+"Arunachal Pradesh","20-24",151767
+"Arunachal Pradesh","25-29",145635
+"Arunachal Pradesh","30-34",134904
+"Arunachal Pradesh","35-39",121107
+"Arunachal Pradesh","40-44",104244
+"Arunachal Pradesh","45-49",90447
+"Arunachal Pradesh","50-54",76650
+"Arunachal Pradesh","55-59",61320
+"Arunachal Pradesh","60-64",47523
+"Arunachal Pradesh","65-69",33726
+"Arunachal Pradesh","70-74",22995
+"Arunachal Pradesh","75-79",15330
+"Arunachal Pradesh","80+",15330
+"Manipur","0-4",227880
+"Manipur","5-9",218385
+"Manipur","10-14",300675
+"Manipur","15-19",310170
+"Manipur","20-24",313335
+"Manipur","25-29",300675
+"Manipur","30-34",278520
+"Manipur","35-39",250035
+"Manipur","40-44",215220
+"Manipur","45-49",186735
+"Manipur","50-54",158250
+"Manipur","55-59",126600
+"Manipur","60-64",98115
+"Manipur","65-69",69630
+"Manipur","70-74",47475
+"Manipur","75-79",31650
+"Manipur","80+",31650
+"Meghalaya","0-4",236736
+"Meghalaya","5-9",226872
+"Meghalaya","10-14",312360
+"Meghalaya","15-19",322224
+"Meghalaya","20-24",325512
+"Meghalaya","25-29",312360
+"Meghalaya","30-34",289344
+"Meghalaya","35-39",259752
+"Meghalaya","40-44",223584
+"Meghalaya","45-49",193992
+"Meghalaya","50-54",164400
+"Meghalaya","55-59",131520
+"Meghalaya","60-64",101928
+"Meghalaya","65-69",72336
+"Meghalaya","70-74",49320
+"Meghalaya","75-79",32880
+"Meghalaya","80+",32880
+"Mizoram","0-4",87552
+"Mizoram","5-9",83904
+"Mizoram","10-14",115520
+"Mizoram","15-19",119168
+"Mizoram","20-24",120384
+"Mizoram","25-29",115520
+"Mizoram","30-34",107008
+"Mizoram","35-39",96064
+"Mizoram","40-44",82688
+"Mizoram","45-49",71744
+"Mizoram","50-54",60800
+"Mizoram","55-59",48640
+"Mizoram","60-64",37696
+"Mizoram","65-69",26752
+"Mizoram","70-74",18240
+"Mizoram","75-79",12160
+"Mizoram","80+",12160
+"Nagaland","0-4",157824
+"Nagaland","5-9",151248
+"Nagaland","10-14",208240
+"Nagaland","15-19",214816
+"Nagaland","20-24",217008
+"Nagaland","25-29",208240
+"Nagaland","30-34",192896
+"Nagaland","35-39",173168
+"Nagaland","40-44",149056
+"Nagaland","45-49",129328
+"Nagaland","50-54",109600
+"Nagaland","55-59",87680
+"Nagaland","60-64",67952
+"Nagaland","65-69",48224
+"Nagaland","70-74",32880
+"Nagaland","75-79",21920
+"Nagaland","80+",21920
+"Tripura","0-4",293112
+"Tripura","5-9",280899
+"Tripura","10-14",386745
+"Tripura","15-19",398958
+"Tripura","20-24",403029
+"Tripura","25-29",386745
+"Tripura","30-34",358248
+"Tripura","35-39",321609
+"Tripura","40-44",276828
+"Tripura","45-49",240189
+"Tripura","50-54",203550
+"Tripura","55-59",162840
+"Tripura","60-64",126201
+"Tripura","65-69",89562
+"Tripura","70-74",61065
+"Tripura","75-79",40710
+"Tripura","80+",40710
+"Sikkim","0-4",48744
+"Sikkim","5-9",46713
+"Sikkim","10-14",64315
+"Sikkim","15-19",66346
+"Sikkim","20-24",67023
+"Sikkim","25-29",64315
+"Sikkim","30-34",59576
+"Sikkim","35-39",53483
+"Sikkim","40-44",46036
+"Sikkim","45-49",39943
+"Sikkim","50-54",33850
+"Sikkim","55-59",27080
+"Sikkim","60-64",20987
+"Sikkim","65-69",14894
+"Sikkim","70-74",10155
+"Sikkim","75-79",6770
+"Sikkim","80+",6770
+"Chandigarh","0-4",100264
+"Chandigarh","5-9",102680
+"Chandigarh","10-14",105096
+"Chandigarh","15-19",109928
+"Chandigarh","20-24",113552
+"Chandigarh","25-29",106304
+"Chandigarh","30-34",97848
+"Chandigarh","35-39",88184
+"Chandigarh","40-44",78520
+"Chandigarh","45-49",71272
+"Chandigarh","50-54",61607
+"Chandigarh","55-59",50736
+"Chandigarh","60-64",39864
+"Chandigarh","65-69",30200
+"Chandigarh","70-74",22952
+"Chandigarh","75-79",15704
+"Chandigarh","80+",13288
+"Dadra and Nagar Haveli and Daman and Diu","0-4",89474
+"Dadra and Nagar Haveli and Daman and Diu","5-9",91630
+"Dadra and Nagar Haveli and Daman and Diu","10-14",93786
+"Dadra and Nagar Haveli and Daman and Diu","15-19",98098
+"Dadra and Nagar Haveli and Daman and Diu","20-24",101332
+"Dadra and Nagar Haveli and Daman and Diu","25-29",94864
+"Dadra and Nagar Haveli and Daman and Diu","30-34",87318
+"Dadra and Nagar Haveli and Daman and Diu","35-39",78694
+"Dadra and Nagar Haveli and Daman and Diu","40-44",70070
+"Dadra and Nagar Haveli and Daman and Diu","45-49",63602
+"Dadra and Nagar Haveli and Daman and Diu","50-54",54978
+"Dadra and Nagar Haveli and Daman and Diu","55-59",45276
+"Dadra and Nagar Haveli and Daman and Diu","60-64",35574
+"Dadra and Nagar Haveli and Daman and Diu","65-69",26950
+"Dadra and Nagar Haveli and Daman and Diu","70-74",20482
+"Dadra and Nagar Haveli and Daman and Diu","75-79",14014
+"Dadra and Nagar Haveli and Daman and Diu","80+",11858
+"Goa","0-4",129397
+"Goa","5-9",132515
+"Goa","10-14",135633
+"Goa","15-19",141869
+"Goa","20-24",146546
+"Goa","25-29",137192
+"Goa","30-34",126279
+"Goa","35-39",113807
+"Goa","40-44",101335
+"Goa","45-49",91981
+"Goa","50-54",79509
+"Goa","55-59",65478
+"Goa","60-64",51447
+"Goa","65-69",38975
+"Goa","70-74",29621
+"Goa","75-79",20267
+"Goa","80+",17149
+"Lakshadweep","0-4",5644
+"Lakshadweep","5-9",5780
+"Lakshadweep","10-14",5916
+"Lakshadweep","15-19",6188
+"Lakshadweep","20-24",6392
+"Lakshadweep","25-29",5984
+"Lakshadweep","30-34",5508
+"Lakshadweep","35-39",4964
+"Lakshadweep","40-44",4420
+"Lakshadweep","45-49",4012
+"Lakshadweep","50-54",3468
+"Lakshadweep","55-59",2856
+"Lakshadweep","60-64",2244
+"Lakshadweep","65-69",1700
+"Lakshadweep","70-74",1292
+"Lakshadweep","75-79",884
+"Lakshadweep","80+",748
+"Puducherry","0-4",130476
+"Puducherry","5-9",133620
+"Puducherry","10-14",136764
+"Puducherry","15-19",143052
+"Puducherry","20-24",147768
+"Puducherry","25-29",138336
+"Puducherry","30-34",127332
+"Puducherry","35-39",114756
+"Puducherry","40-44",102180
+"Puducherry","45-49",92748
+"Puducherry","50-54",80172
+"Puducherry","55-59",66024
+"Puducherry","60-64",51876
+"Puducherry","65-69",39300
+"Puducherry","70-74",29868
+"Puducherry","75-79",20436
+"Puducherry","80+",17292
+"Andaman and Nicobar Islands","0-4",33200
+"Andaman and Nicobar Islands","5-9",34000
+"Andaman and Nicobar Islands","10-14",34800
+"Andaman and Nicobar Islands","15-19",36400
+"Andaman and Nicobar Islands","20-24",37600
+"Andaman and Nicobar Islands","25-29",35200
+"Andaman and Nicobar Islands","30-34",32400
+"Andaman and Nicobar Islands","35-39",29199
+"Andaman and Nicobar Islands","40-44",26000
+"Andaman and Nicobar Islands","45-49",23600
+"Andaman and Nicobar Islands","50-54",20400
+"Andaman and Nicobar Islands","55-59",16800
+"Andaman and Nicobar Islands","60-64",13200
+"Andaman and Nicobar Islands","65-69",10000
+"Andaman and Nicobar Islands","70-74",7600
+"Andaman and Nicobar Islands","75-79",5200
+"Andaman and Nicobar Islands","80+",4400
+"Ladakh","0-4",24651
+"Ladakh","5-9",25245
+"Ladakh","10-14",25839
+"Ladakh","15-19",27027
+"Ladakh","20-24",27918
+"Ladakh","25-29",26136
+"Ladakh","30-34",24057
+"Ladakh","35-39",21681
+"Ladakh","40-44",19305
+"Ladakh","45-49",17523
+"Ladakh","50-54",15146
+"Ladakh","55-59",12474
+"Ladakh","60-64",9801
+"Ladakh","65-69",7425
+"Ladakh","70-74",5643
+"Ladakh","75-79",3861
+"Ladakh","80+",3267

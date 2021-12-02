@@ -1,0 +1,45 @@
+Package: indiaascertainment
+Type: Package
+Title: Analysis of COVID-19 mortality in India
+Version: 0.1.0
+Authors@R: c(
+  person("OJ", "Watson", email = "o.watson15@imperial.ac.uk", role = c("aut", "cre"))
+  )
+Description: Code repository for analysis into under-ascertainment of COVID-19 mortality in India
+License: MIT + file LICENCE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    orderly,
+    tidyr,
+    dplyr,
+    here,
+    pbapply,
+    squire (>= 0.4.34),
+    countrycode,
+    scales,
+    lubridate,
+    readxl,
+    dplyr,
+    gbm,
+    dismo,
+    tidyr,
+    conflicted,
+    gtools,
+    stringi,
+    knitr,
+    ggplot2,
+    ggrepel,
+    magrittr,
+    rvest,
+    xml2,
+    grid,
+    ggforce,
+    cowplot,
+    RhpcBLASctl,
+    grDevices,
+    grImport
+Remotes:
+    mrc-ide/squire
+    mrc-ide/odin
+RoxygenNote: 7.1.2
