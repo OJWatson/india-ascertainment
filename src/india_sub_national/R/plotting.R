@@ -282,7 +282,7 @@ get_projections <- function(res, vaccine_inputs, state) {
 
   ## Functions for working out the relative changes in R0 for given scenarios
   date_0 <- max(res$pmcmc_results$inputs$data$date)
-  time_period <- as.integer(as.Date("2022-01-01") - date_0)
+  time_period <- max(as.integer(as.Date("2022-01-01") - date_0), 10)
 
   ## We need to know work out vaccine doses and efficacy going forwards
   model_user_args <- extend_vaccine_inputs(vaccine_inputs, time_period, res)

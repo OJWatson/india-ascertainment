@@ -86,15 +86,8 @@ subnat_df <- read.csv("https://data.incovid19.org/csv/latest/states.csv") %>%
 df <- subnat_df[subnat_df$state == state, ] %>%
   ungroup %>%
   select(date, deaths, cases) %>%
-  arrange(date)
-
-if(state == "Maharashtra") {
-
-  df$deaths[df$date == "2021-11-02"] <- 140274
-  df$cases[df$date == "2021-11-02"] <- 6612965
-  df <- df[-603,]
-
-}
+  arrange(date) %>%
+  unique()
 
 df$deaths <- c(df$deaths[1], diff(df$deaths))
 df$deaths[df$deaths < 0] <- 0
@@ -106,9 +99,10 @@ df <- df[as.Date(df$date) <= as.Date(date),]
 
 # get vaccination data
 subnat_vacc <- read.csv("https://data.incovid19.org/csv/latest/cowin_vaccine_data_statewise.csv")
-subnat_vacc <- subnat_vacc %>% rename(region = State, date = Updated.On) %>%
-  mutate(date = as.Date(date, "%d/%m/%Y")) %>%
-  group_by(region, date) %>%
+subnat_vacc <- subnat_vacc %>% rename(region = State) %>%
+  mutate(date = as.Date(Updated.On, "%d/%m/%Y")) %>%
+  mutate(date = replace(date, which(is.na(date)), as.Date(Updated.On[which(is.na(date))]))) %>%
+  group_by(region, date, Updated.On) %>%
   summarise(total_vaccinations = sum(Total.Doses.Administered),
             people_vaccinated = sum(First.Dose.Administered),
             people_fully_vaccinated = sum(Second.Dose.Administered)) %>%
@@ -153,14 +147,21 @@ if (state == "Maharashtra") {
 if (state == "Delhi") {
   df <- redist_deaths(df, as.Date("2020-06-16"))
 }
+if (state == "Chandigarh") {
+  df <- redist_deaths(df, as.Date("2021-12-09"), 210)
+}
 if (state == "Chhattisgarh") {
   df <- redist_deaths(df, as.Date("2020-09-09"))
 }
 if (state == "Bihar") {
   df <- redist_deaths(df, as.Date("2021-06-09"), 60)
+  df <- redist_deaths(df, as.Date("2021-12-03"), 210)
 }
 if (state == "Madhya Pradesh") {
   df <- redist_deaths(df, as.Date("2021-07-12"), 90)
+}
+if (state == "Jammu and Kashmir") {
+  df <- redist_deaths(df, as.Date("2021-12-30"), 240)
 }
 if (state == "Tamil Nadu") {
   df <- redist_deaths(df, as.Date("2020-07-22"))
@@ -182,6 +183,7 @@ if (state == "Haryana") {
 if (state == "Nagaland") {
   df <- redist_deaths(df, as.Date("2021-08-29"), 60)
 }
+
 ## -----------------------------------------------------------------------------
 ## 2. Fit Model
 ## -----------------------------------------------------------------------------
@@ -218,7 +220,7 @@ res$output <- output
 if (model == "SQUIRE") {
 rtp <- rt_plot_immunity(res)
 } else {
-  rtp <- rt_plot_immunity(res)
+  rtp <- rt_plot_immunity_vaccine(res)
 }
 dp <- dp_plot(res)
 cdp <- cdp_plot(res)
